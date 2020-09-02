@@ -1,0 +1,15 @@
+{
+  "covalentRadii": {
+    "dois": ["10.1039/B801115J"],
+    "recommendedFill": 0.2,
+    "unit": "angstrom"
+  },
+  "atomicMasses": {
+    "dois": ["10.1515/pac-2015-0305"],
+    "unit": "u"
+  },
+  "uffRadii": {
+    "dois": ["10.1021/acs.langmuir.7b01682"],
+    "unit": "angstrom"
+  }
+}
