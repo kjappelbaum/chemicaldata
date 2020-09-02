@@ -11,5 +11,9 @@
   "uffRadii": {
     "dois": ["10.1021/acs.langmuir.7b01682"],
     "unit": "angstrom"
+  },
+  "vdwRadiiAlvarez": {
+    "dois": ["10.1039/C3DT50599E"],
+    "unit": "angstron"
   }
 }
